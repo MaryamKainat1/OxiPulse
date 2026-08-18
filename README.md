@@ -1,4 +1,5 @@
 **Finger Heart Rate / SpO2 Monitor — nRF7002-DK + ESP32-S3 + MAX30101**
+
 Measures heart rate (BPM) and blood oxygen saturation (SpO2) from a fingertip using a MAX30101 optical sensor, read by an nRF7002-DK (nRF5340), with a separate ESP32-S3 board used purely as a clean power source for the sensor.
 
 Why two boards?
